@@ -1,4 +1,4 @@
-const countDownDate = new Date("2020-09-26T00:00:00Z").getTime();
+const countDownDate = new Date("2020-09-26T16:00:00Z").getTime();
 
 const timerFunction = setInterval(() => {
   const currentDate = new Date().getTime();
